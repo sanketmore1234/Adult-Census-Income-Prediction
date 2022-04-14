@@ -36,3 +36,9 @@ Used weights as balanced since one class was very less than others
 # Performance Criteria
 Selected the best performing model keeping in mind F1 and Recall scores
 
+Best Model paramters and performance is as follows
+https://github.com/sanketmore1234/Adult-Census-Income-Prediction/blob/main/Best%20Model%20performance-%20Ridge.jpg
+
+
+# Feature importances
+The feature importances were plotted by using the model coefficients and showcasing the most influential parameters
